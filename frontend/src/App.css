@@ -1,0 +1,16 @@
+.form-test{
+    margin-top: 120px;
+    display: grid;
+    justify-content: space-around;
+}
+
+.form-test div label input{
+    display: inline-flex;
+    width: 150px;
+}
+
+.form-test div button{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
