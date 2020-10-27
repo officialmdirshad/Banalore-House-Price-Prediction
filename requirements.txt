@@ -34,7 +34,7 @@ colorama==0.4.3
 confuse==1.1.0
 coreapi==2.3.3
 coreschema==0.0.4
-cryptography==2.9.2
+cryptography==3.2
 cssutils==1.0.2
 cycler==0.10.0
 dash==1.12.0
