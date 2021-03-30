@@ -167,7 +167,7 @@ pycparser==2.20
 pydeck==0.4.0b2
 pydocstyle==5.0.2
 pyflakes==2.1.1
-Pygments==2.6.1
+Pygments==2.7.4
 PyInstaller==3.6
 pylint==2.5.3
 PyMySQL==0.9.3
